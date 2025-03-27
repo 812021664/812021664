@@ -1,3 +1,5 @@
+![logo](https://github.com/812021664/812021664/blob/main/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif)
+
 <h1 align="center">Hi 👋, I'm Anirudh Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
