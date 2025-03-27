@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Anirudh Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width=300 border-radius= 10 src ="https://media1.tenor.com/m/tN0vN9PhPKAAAAAd/dcw-dark-cyber-web.gif">
+
+<img align="right" alt="coding" width=300 border-radius= 10 src ="https://tenor.com/view/dcw-dark-cyber-web-discord-discord-hacker-web-hacking-gif-15925396">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=812021664&label=Profile%20views&color=0e75b6&style=flat" alt="812021664" /> </p>
 
