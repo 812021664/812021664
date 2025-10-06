@@ -8,24 +8,26 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=812021664&label=Profile%20views&color=0e75b6&style=flat" alt="812021664" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=812021664" alt="812021664" /></a> </p>
+- I am presently working as a Contributor in GSSoC's 2025(GirlScript Summer Of Code 2025).[https://www.linkedin.com/posts/anirudh-chauhan-9b6060326_girlscript-new-gssoc-activity-7376280485703925760-E0UK?utm_source=share&utm_medium=member_android&rcm=ACoAAFI7y5oB__C7kDc7gOoY9fcVQdl0T-TkrA4].
 
-- 🔭 I’m currently working on [Project head in RoboRush 1.0](https://circuitdigest.com/microcontroller-projects/arduino-color-sorter-machine-using-tcs3200-color-sensor)
+- 🔭 I had worked on RorboRoush2.0 project as a [Project head in RoboRush 1.0](https://circuitdigest.com/microcontroller-projects/arduino-color-sorter-machine-using-tcs3200-color-sensor)
+  
+- 🚀I had completed my internship from Tare Zameen Foundation which is basically a NGO in which,I am appointed as Data Analyst.You can check the certificate here[https://www.linkedin.com/posts/anirudh-chauhan-9b6060326_intership-tzp-tare-activity-7378831737952399360-zAKs?utm_source=share&utm_medium=member_android&rcm=ACoAAFI7y5oB__C7kDc7gOoY9fcVQdl0T-TkrA4].
+  
+- In internship I built a Toolbox which helps the Rural people and the Foundation members for connecting with less internet connection, it helps in collecting data, location, donation etc. This toolbox after getting data share info to the user and the Foundation members within the  less interval of time. 
+This helps in connecting the People to the Foundation. This Foundation is NGO which focuses on the Rural area people as the Foundation provide food, donation , proper education for the poor peoples.The link of the ToolBox is [https://ee.kobotoolbox.org/x/ztgvQ2h0].
 
-- 🌱 I’m currently learning **C++, Front hand Developing ,Pandas, SQL ,Python**
+- 🌱 I’m currently learning **C++, Front hand Developing ,Pandas, SQL ,Python,Java**
 
-- 👯 I’m looking to collaborate on [Object Sorting Robot](https://circuitdigest.com/microcontroller-projects/arduino-color-sorter-machine-using-tcs3200-color-sensor)
+- 👯 I have collabrate with Anirudh Prakash for the project [Object Sorting Robot](https://circuitdigest.com/microcontroller-projects/arduino-color-sorter-machine-using-tcs3200-color-sensor)
 
-- 🤝 I’m looking for help with [Arduino Programmers](https://circuitdigest.com/microcontroller-projects/arduino-color-sorter-machine-using-tcs3200-color-sensor)
+- 🤝 I’m done my project of Color sorting Robot with the help of this website[Arduino Programmers](https://circuitdigest.com/microcontroller-projects/arduino-color-sorter-machine-using-tcs3200-color-sensor)
 
-- 👨‍💻 All of my projects are available at [https://pdflink.to/86ccb906/](https://pdflink.to/86ccb906/)
+- 💬 Ask me about **Front Hand, Coding,Freelancing**
 
-- 💬 Ask me about **Front Hand, Coding**
+- 📫 How to reach me **okayanirudh@gmail.com,https://www.linkedin.com/in/anirudh-chauhan-9b6060326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 
-- 📫 How to reach me **okayanirudh@gmail.com**
-
-- 📄 Know about my experiences [https://pdflink.to/86ccb906/](https://pdflink.to/86ccb906/)
-
-- ⚡ Fun fact **I think I am a funniest Programmer**
+- ⚡ Fun fact **I think I am a funniest Programmer with crazy coding skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
