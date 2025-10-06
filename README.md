@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=812021664&label=Profile%20views&color=0e75b6&style=flat" alt="812021664" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=812021664" alt="812021664" /></a> </p>
-- I am presently working as a Contributor in GSSoC's 2025(GirlScript Summer Of Code 2025).[https://www.linkedin.com/posts/anirudh-chauhan-9b6060326_girlscript-new-gssoc-activity-7376280485703925760-E0UK?utm_source=share&utm_medium=member_android&rcm=ACoAAFI7y5oB__C7kDc7gOoY9fcVQdl0T-TkrA4].
+ - I am presently working as a Contributor in GSSoC's 2025(GirlScript Summer Of Code 2025).[https://www.linkedin.com/posts/anirudh-chauhan-9b6060326_girlscript-new-gssoc-activity-7376280485703925760-E0UK?utm_source=share&utm_medium=member_android&rcm=ACoAAFI7y5oB__C7kDc7gOoY9fcVQdl0T-TkrA4].
 
 - 🔭 I had worked on RorboRoush2.0 project as a [Project head in RoboRush 1.0](https://circuitdigest.com/microcontroller-projects/arduino-color-sorter-machine-using-tcs3200-color-sensor)
   
